@@ -4,7 +4,7 @@ function Sidebar(){
     return (
         <aside className="min-w-[20%] h-screen flex-box flex-col justify-start bg-white fixed z-30 top-0 left-0 overflow-hidden">
             <header className="w-full h-20 bg-black flex-box justify-start gap-5 p-5">
-                <img src="./src/assets/icons/Logo-Black-White.svg" className="size-10 object-cover" alt="Logo"/>
+                <img src="../assets/icons/Logo-Black-White.svg" className="size-10 object-cover" alt="Logo"/>
                 <h1 className="text-3xl text-white">Melodic</h1>
             </header>
 

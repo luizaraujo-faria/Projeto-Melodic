@@ -23,20 +23,20 @@ function Login(){
             <section className="w-3/5 h-[95%] flex-box flex-col justify-start gap-8 p-5 bg-gradient-to-t from-neutral-900 to-black rounded-xl max-sm:w-[95%] max-md:w-[90%] max-lg:w-3/5 max-xl:w-3/5 max-2xl:w-3/5">
                 <section className="w-full h-2/5 flex-box flex-col gap-5">
                     <header className="w-full h-36 flex-box flex-col gap-5">
-                        <img className="size-12 object-cover" src="./src/assets/icons/Logo-Black-White.svg" alt="logo-Melodic"/>
+                        <img className="size-12 object-cover" src="../assets/icons/Logo-Black-white.svg" alt="logo-Melodic"/>
                         <h1 className="text-4xl text-white font-light max-sm:text-3xl max-md:text-4xl max-lg:text-4xl max-xl:text-4xl max-2xl:text-4xl">Entre para a Melodic</h1>
                     </header>
                     <div className="w-full h-auto flex-box flex-col gap-3">
                         <div className="login-option max-sm:w-[100%] max-md:w-[75%] max-lg:w-[75%] max-xl:w-[75%] max-2xl:w-[60%]">
-                            <img className="size-8 absolute left-[15%]" src="./src/assets/icons/icon-google.png" alt="icon-google"/>
+                            <img className="size-8 absolute left-[15%]" src="../assets/icons/icon-google.png" alt="icon-google"/>
                             <h1 className="text-white text-xl absolute left-[35%]">Entrar com Google</h1>
                         </div>
                         <div className="login-option max-sm:w-[100%] max-md:w-[75%] max-lg:w-[75%] max-xl:w-[75%] max-2xl:w-[60%]">
-                            <img className="size-8 absolute left-[15%]" src="./src/assets/icons/icon-apple.png" alt="icon-apple"/>
+                            <img className="size-8 absolute left-[15%]" src="../assets/icons/icon-apple.png" alt="icon-apple"/>
                             <h1 className="text-white text-xl absolute left-[35%]">Entrar com Apple</h1>
                         </div>
                         <div className="login-option max-sm:w-[100%] max-md:w-[75%] max-lg:w-[75%] max-xl:w-[75%] max-2xl:w-[60%]">
-                            <img className="size-8 absolute left-[15%]" src="./src/assets/icons/icon-facebook.png" alt="icon-facebook"/>
+                            <img className="size-8 absolute left-[15%]" src="../assets/icons/icon-facebook.png" alt="icon-facebook"/>
                             <h1 className="text-white text-xl absolute left-[35%]">Entrar com Facebook</h1>
                         </div>
                     </div>
